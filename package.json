@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chuck Aksamit",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "rollup": "^0.57.1"
   }
